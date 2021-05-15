@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Private\AMKoodari\Java2\Viikko_7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2349168413.index
+\Asiakas_NatiiviJS\src
+C:\Private\AMKoodari\Java2\Viikko_7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1255695697.index
+\Asiakas_NatiiviJS\src
